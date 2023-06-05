@@ -5,8 +5,6 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -25,31 +23,6 @@
 # 📖 [VET CLINIC DATABASE] <a name="about-project"></a>
 
 **[Vet Clinic]** is a project based on SQL DBMS in which multiple relations will be created using SQL on PostgreSQL Database. In the tables, data will be populated using the database language SQL. All the commands will be stored in this repository sequentally in order to create a full-fledged database.
-
-## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
 
 <!-- Features -->
 
